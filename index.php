@@ -1,1 +1,1 @@
-<?php include_once("./cv-b.html")?>
+<?php include("./cv-b.html")?>
